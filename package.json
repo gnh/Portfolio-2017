@@ -1,16 +1,16 @@
 {
-  "name": "volume7.io",
+  "name": "grantharr.is",
   "version": "1.0.0",
-  "description": "Company website, built on [Middleman](http://middlemanapp.com).",
+  "description": "Personal website, built on [Middleman](http://middlemanapp.com).",
   "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vol7/volume7.io.git"
   },
-  "author": "Francis Marineau <francis.marineau@hotmail.com> (http://volume7.io/)",
+  "author": "Grant Harris <me@grantharr.is> (http://grantharr.is/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vol7/volume7.io/issues"
+    "url": "http://grantharr.is"
   },
   "homepage": "https://github.com/vol7/volume7.io#readme",
   "dependencies": {
