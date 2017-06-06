@@ -14,6 +14,7 @@
   },
   "homepage": "https://github.com/vol7/volume7.io#readme",
   "dependencies": {
+    "aos": "^2.1.1",
     "babel": "^6.5.2",
     "babel-core": "^6.18.0",
     "babel-loader": "^6.2.7",

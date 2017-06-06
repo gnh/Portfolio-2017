@@ -4,7 +4,6 @@
   left: 0;
   width: 100%;
   z-index: 300;
-  background-color: $off-white;
   @include vertical-padding(1.5rem);
 
   @include mq(small-up) {
