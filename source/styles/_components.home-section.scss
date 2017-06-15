@@ -1,4 +1,8 @@
 .c-home-section {
+  // background-color: $primary-color;
+
+
+
   @include vertical-padding(3rem);
 
   @include mq(small-up) {
